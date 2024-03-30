@@ -13,10 +13,11 @@ BrainStorm - A modern UX website developed using ReactJS, Tailwind CSS and Vite 
 
 <div align="center">
   <br />
-    <img src="https://github.com/Jamman65/BrainStormAI/assets/71873396/692c9641-aa25-4481-9cdc-1965a800ca46" alt="Project Banner">
+    <img src="https://github.com/Jamman65/BrainStormAI/assets/71873396/2af577b4-bee7-4e3f-9600-63ce2f69bc33" alt="Project Banner">
     </a>
   <br />
 </div>
+
 
 
 
