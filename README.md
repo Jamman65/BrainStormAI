@@ -3,10 +3,8 @@
 1. 🤖 [Introduction](#introduction)
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-5. 🕸️ [Snippets](#snippets)
-6. 🔗 [Links](#links)
-7. 🚀 [More](#more)
+4. 🔗 [Links](#links)
+
 
 
 ## <a name="introduction">🤖 Introduction</a>
@@ -22,17 +20,17 @@ Brainwave - Modern UI/UX website, developed using React.js and Tailwind CSS, exe
 
 ## <a name="features">🔋 Features</a>
 
-**Beautiful Sections**: Includes hero, services, features, how to use, roadmap, pricing, footer, and header.
+**Beautiful Sections**: Includes detailed and visually appealing sections such as hero, services, features, how to use, roadmap, pricing, footer, and header.
 
-**Parallax Animations**: Engaging effects triggered by mouse movement and scrolling
+**Parallax Animations**: These animations are not merely decorative but are implemented to engage users dynamically, they respond to the user's mouse movements.
 
-**Complex UI Geometry**: Utilizes tailwindcss for intricate shapes like circular feature displays, grid lines, and side lines.
+**Complex UI Features**: BrainStorm leverages the power of Tailwind CSS to incorporate complex and visually appealing geometric designs to engage the users.
 
-**Latest UI Trends**: Incorporates modern design elements such as bento grids.
+**Latest UI Trends**: Staying ahead of the curve, the website integrates the latest UI design trends to ensure its features are user-friendly and visually appealing
 
-**Cool Gradients**: Enhances visuals with stylish gradients using Tailwind CSS for cards, buttons, etc.
+**Cool Gradients**: Brainstorm enhances its visual appeal by incorporating stylish gradients using Tailwind CSS which is applied to elements such as individual buttons, images and the background.
 
-**Responsive**: Ensures seamless functionality and aesthetics across all devices
+**Responsive**: Fully responsive on any device which has been tested thoroughly to ensure users can enjoy a seamless browsing experience.
 
 and many more, including code architecture and reusability
 
