@@ -11,8 +11,14 @@
 
 BrainStorm - A modern UX website developed using ReactJS, Tailwind CSS and Vite focused on delivering a visually appealing and seamless user experience as well as developing a **FRAMEWORK** for an AI application in development which allows users to ask BrainStorm anything they desire, generate AI photos/videos, Voice recognition and integrate with numerous APIs. 
 
+<div align="center">
+  <br />
+    <img src="https://github.com/Jamman65/BrainStormAI/assets/71873396/692c9641-aa25-4481-9cdc-1965a800ca46" alt="Project Banner">
+    </a>
+  <br />
+</div>
 
-![Screenshot_51](https://github.com/Jamman65/BrainStormAI/assets/71873396/692c9641-aa25-4481-9cdc-1965a800ca46)
+
 
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
