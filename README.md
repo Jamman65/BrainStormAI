@@ -41,7 +41,7 @@ BrainStorm - A modern UX website developed using ReactJS, Tailwind CSS and Vite 
 
 * **Latest UI Trends**: Staying ahead of the curve, the website integrates the latest UI design trends to ensure its features are user-friendly and visually appealing
 
-* **Cool Gradients**: Brainstorm enhances its visual appeal by incorporating stylish gradients using Tailwind CSS which is applied to elements such as individual buttons, images and the background.
+* **Stylish Designs**: Brainstorm enhances its visual appeal by incorporating stylish gradients using Tailwind CSS which is applied to elements such as individual buttons, images and the background.
 
 * **Responsive**: Fully responsive on any device which has been tested thoroughly to ensure users can enjoy a seamless browsing experience.
 
