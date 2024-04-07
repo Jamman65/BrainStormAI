@@ -55,7 +55,7 @@ BrainStorm - A modern UX website developed using ReactJS, Tailwind CSS and Vite 
 
 ## <a name="links">🔗 Links</a>
 
-- [Screenshots](https://drive.google.com/file/d/1JKzwPl_hnpjIlNbwfjMagb4HosxnyXbf/view?usp=sharing)
+- [Screenshots](https://github.com/Jamman65/BrainStormAI/wiki#brainstorm-screenshots)
 - [Portfolio](https://james-owen-portfolio.com)
 - [LinkedIn](https://www.linkedin.com/in/james-owen-7b909b1b1/)
 
